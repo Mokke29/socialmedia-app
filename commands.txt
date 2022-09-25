@@ -1,0 +1,8 @@
+#Client
+cd client
+npm start
+#Server http://127.0.0.1:5000/
+conda activate server-flask
+set FLASK_APP=app.py
+set FLASK_ENV=development
+python app.py

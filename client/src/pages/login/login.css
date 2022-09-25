@@ -1,0 +1,61 @@
+.nav{
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-login {
+    margin: 0;
+    font-size: 3rem;
+}
+
+.login-box {
+    background-color: #FFFFFF;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 17%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    border-color: #DBDBDB;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: #8E8E8E;
+}
+
+.input-box {
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.login-btn {
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.or {
+    color: #8E8E8E;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    align-self: center;
+}
+.signup {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.forgot {
+    margin-top: 11%;
+    margin-left: 35%;
+    margin-right: 10%;
+    align-items: center;
+}
+
+.forgot a {
+    color: #eb6e80;
+    text-decoration: none;
+}
+
